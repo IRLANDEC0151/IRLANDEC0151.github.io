@@ -1,0 +1,20 @@
+{
+  "name": "mathbattle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "startapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math",
+    "battle"
+  ],
+  "author": "IRLANDEC",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
